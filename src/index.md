@@ -9,11 +9,17 @@ hero:
   tagline: ""
   actions:
     - theme: brand
-      text: game
+      text: 游戏
       link: /game/
     - theme: alt
-      text: notes
+      text: 笔记
       link: /docus/
+    - theme: alt
+      text: 编程
+      link: /code/
+    - theme: alt
+      text: 文科
+      link: /art/            
 # Could add features description here
 features:
   - title: 游戏

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     // These are app level configs.
-    title: 'Pilot',
+    title: 'Augus Pilot',
     description: 'Augus All Site',
     base: "/",
     lastUpdated: true,
