@@ -1,0 +1,23 @@
+{
+  "name": "pilot",
+  "version": "1.0.0",
+  "description": "augus site pilot",
+  "main": "index.js",
+  "repository": "https://github.com/augusmeow/augusmeow.github.io/",
+  "author": "Augus",
+  "license": "GNU",
+  "private": false,
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.34.0",
+    "eslint": "^8.29.0",
+    "vitepress": "^1.0.0-alpha.30",
+    "vue": "^3.2.45"
+  }
+}
