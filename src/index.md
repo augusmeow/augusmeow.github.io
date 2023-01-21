@@ -10,16 +10,16 @@ hero:
   actions:
     - theme: brand
       text: 游戏
-      link: /game/
+      link: https://draugus.github.io/
     - theme: alt
       text: 笔记
-      link: /docus/
+      link: https://augusmeow.github.io/docus/
     - theme: alt
       text: 编程
-      link: /code/
+      link: https://augusmeow.github.io/code/
     - theme: alt
       text: 文科
-      link: /art/            
+      link: https://augusmeow.github.io/art/            
 # Could add features description here
 features:
   - title: 游戏
