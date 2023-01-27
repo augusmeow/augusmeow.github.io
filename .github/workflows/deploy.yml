@@ -4,12 +4,20 @@ on:
   # 每当 push 到 main 分支时触发部署
   push:
     branches: [master]
+    paths:
+      - "src/**"
+      - "yarn.lock"
+      - "package.json"
   # 手动触发部署
   # workflow_dispatch:
   # pr 部署
   pull_request:
     branches:
       - master
+    paths:
+      - "src/**"
+      - "yarn.lock"
+      - "package.json"      
 
 jobs:
   deploy:
