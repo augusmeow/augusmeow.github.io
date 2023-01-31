@@ -13,7 +13,7 @@ hero:
       link: https://draugus.github.io/
     - theme: alt
       text: 笔记
-      link: https://augusmeow.github.io/docus/
+      link: https://augusmeow.github.io/notes/
     - theme: alt
       text: 编程
       link: https://augusmeow.github.io/code/
