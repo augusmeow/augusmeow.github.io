@@ -10,11 +10,12 @@ export default defineConfig({
     head: [
         ['link', {
             rel: 'icon',
-            href: '/logo.svg',
+            href: '/favicon.ico',
         }],
         ['meta', { name: 'theme-color', content: '#3c8772' }],
     ],
     themeConfig: {
+        logo: '/logo/logo.jpg',
         // sidebar: sidebar,
         socialLinks: [
             { icon: 'github', link: 'https://github.com/DrAugus/' },

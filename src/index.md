@@ -6,7 +6,10 @@ titleTemplate: Augus 的全部网站
 hero:
   name: 网站导航
   text: Augus 的全部网站
-  tagline: ""
+  tagline: 见证者，为见证而来 | 铭记者，因铭记而生
+  image:
+    src: /img/home.jpg
+    alt: none
   actions:
     - theme: brand
       text: 游戏
