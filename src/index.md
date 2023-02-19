@@ -23,6 +23,9 @@ hero:
     - theme: alt
       text: 文科
       link: https://augusmeow.github.io/art/            
+    - theme: alt
+      text: 文章
+      link: https://augusmeow.github.io/article/           
 # Could add features description here
 features:
   - title: 游戏
@@ -33,4 +36,6 @@ features:
     details: 各种编程
   - title: 文科
     details: 简单了解一下
+  - title: 文章
+    details: 收录一些奇奇怪怪的文章，也许不奇怪    
 ---
