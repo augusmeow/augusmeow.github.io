@@ -15,6 +15,9 @@ hero:
       text: 游戏
       link: https://draugus.github.io/
     - theme: alt
+      text: 旅行
+      link: https://augusmeow.github.io/trip/
+    - theme: alt
       text: 笔记
       link: https://augusmeow.github.io/notes/
     - theme: alt
@@ -30,8 +33,10 @@ hero:
 features:
   - title: 游戏
     details: 当然是原神啦，目前只有原神，没别的游戏兴趣，也没别的游戏可玩
+  - title: 旅行
+    details: 旅行是旅行计划也是旅行记录
   - title: 笔记
-    details: 有很多笔记。记录一栏里收录了当前会用到的页面。职业一栏里存放了未来职业何去何从。旅行是旅行计划也是旅行记录。未来分类里放了一堆杂项。存档里面放置历史文件。想法栏里是自己的一些想法。
+    details: 有很多笔记。记录一栏里收录了当前会用到的页面。职业一栏里存放了未来职业何去何从。未来分类里放了一堆杂项。存档里面放置历史文件。想法栏里是自己的一些想法。
   - title: 编程
     details: 主要是`C++`和`DSA`也有一些八股文，这些八股文大多是`C++`，对于其他编程语言记录的较少，跟编程相关的笔记也收录在此。
   - title: 文科
