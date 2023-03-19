@@ -19,7 +19,6 @@ export default defineConfig({
         // sidebar: sidebar,
         socialLinks: [
             { icon: 'github', link: 'https://github.com/DrAugus/' },
-            { icon: 'github', link: 'https://github.com/augusmeow/' },
         ],
         editLink: {
             pattern: 'https://github.com/augusmeow/augusmeow.github.io/tree/master/src/:path',
@@ -29,6 +28,18 @@ export default defineConfig({
             message: 'Released under the GNU License.',
             copyright: 'Copyright © 2023-present Augus'
         },
+    },
+    locales: {
+        root: {
+            label: '中文',
+            lang: 'zh'
+        },
+        en: {
+            label: 'English',
+            lang: 'en', // optional, will be added  as `lang` attribute on `html` tag
+            link: '/en/', // default /fr/ -- shows on navbar translations menu, can be external
 
-    }
+            // other locale specific properties...
+        }
+    },
 })
