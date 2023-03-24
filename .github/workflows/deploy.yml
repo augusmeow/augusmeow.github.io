@@ -5,9 +5,9 @@ on:
   push:
     branches: [master]
     paths-ignore:
-      - '.gitignore'
-      - 'LICENSE'
-      - 'README.md'
+      - ".gitignore"
+      - "LICENSE"
+      - "README.md"
   # 手动触发部署
   # workflow_dispatch:
   # pr 部署
@@ -15,9 +15,9 @@ on:
     branches:
       - master
     paths-ignore:
-      - '.gitignore'
-      - 'LICENSE'
-      - 'README.md'
+      - ".gitignore"
+      - "LICENSE"
+      - "README.md"
 
 jobs:
   deploy:
@@ -52,6 +52,11 @@ jobs:
           HOSTNAME: https://augusmeow.github.io/
           NODE_OPTIONS: --max_old_space_size=4096
         run: pnpm build
+
+      - name: Add google
+        run: |
+          cd ./.vitepress/dist
+          echo "google-site-verification: googlea936c3462e7f8864.html" >> googlea936c3462e7f8864.html
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
