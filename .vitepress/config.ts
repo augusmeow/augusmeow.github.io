@@ -6,7 +6,7 @@ export default defineConfig({
     description: 'Augus All Site',
     base: "/",
     lastUpdated: true,
-    cleanUrls: 'without-subfolders',
+    cleanUrls: true,
     head: [
         ['link', {
             rel: 'icon',
