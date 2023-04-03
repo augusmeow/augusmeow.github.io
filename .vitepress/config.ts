@@ -28,6 +28,12 @@ export default defineConfig({
             message: 'Released under the GNU License.',
             copyright: 'Copyright © 2023-present Augus'
         },
+
+        algolia: {
+            appId: 'TMOT9B7BHV',
+            apiKey: '8870d1a7427df92c33d2db21368d01d1',
+            indexName: 'augusmeowio'
+        },
     },
     locales: {
         root: {
