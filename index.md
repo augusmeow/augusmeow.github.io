@@ -15,11 +15,8 @@ hero:
       text: 游戏
       link: https://draugus.github.io/
     - theme: brand
-      text: 旅行
-      link: https://augusmeow.github.io/trip/
-    - theme: brand
-      text: 吃饭
-      link: https://augusmeow.github.io/food/      
+      text: 享乐
+      link: https://augusmeow.github.io/life/   
     - theme: alt
       text: 笔记
       link: https://augusmeow.github.io/notes/
@@ -34,12 +31,9 @@ features:
   - title: 游戏
     details: 当然是原神啦，目前只有原神，没别的游戏兴趣，也没别的游戏可玩
     link: https://draugus.github.io/
-  - title: 旅行
-    details: 旅行是旅行计划也是旅行记录
-    link: https://augusmeow.github.io/trip/
-  - title: 吃饭
-    details: 吃饭真的太重要了，每天都在纠结吃什么   
-    link: https://augusmeow.github.io/food/   
+  - title: 享乐
+    details: 吃饭和旅行。吃饭真的太重要了，每天都在纠结吃什么。旅行是旅行计划也是旅行记录
+    link: https://augusmeow.github.io/life/   
   - title: 笔记
     details: 有很多笔记。记录一栏里收录了当前会用到的页面。职业一栏里存放了未来职业何去何从。未来分类里放了一堆杂项。存档里面放置历史文件。想法栏里是自己的一些想法。
     link: https://augusmeow.github.io/notes/

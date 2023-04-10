@@ -15,11 +15,8 @@ hero:
       text: GAME
       link: https://draugus.github.io/
     - theme: brand
-      text: TRIP
-      link: https://augusmeow.github.io/trip/
-    - theme: brand
-      text: FOOD
-      link: https://augusmeow.github.io/food/      
+      text: LIFE
+      link: https://augusmeow.github.io/life/  
     - theme: alt
       text: NOTES
       link: https://augusmeow.github.io/notes/
@@ -34,12 +31,9 @@ features:
   - title: GAMING
     details: It's definitely Genshin Impact. Currently, there's no other game interest and nothing else to play. 
     link: https://draugus.github.io/
-  - title: TRAVELING
-    details: Traveling involves both planning and record keeping.
-    link: https://augusmeow.github.io/trip/
-  - title: EATING
-    details: Eating is really important, and I'm always struggling with what to eat every day.
-    link: https://augusmeow.github.io/food/   
+  - title: LIFE
+    details: TRAVELING and EATING. Eating is really important, and I'm always struggling with what to eat every day. Traveling involves both planning and record keeping.
+    link: https://augusmeow.github.io/life/
   - title: NOTES
     details: There are a lot of notes. The "Records" section includes pages currently being used. The "Career" section holds information about the future career path. The "Future" section contains miscellaneous items. The "Archives" section holds historical documents. The "Ideas" section is for personal musings. 
     link: https://augusmeow.github.io/notes/
