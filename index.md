@@ -22,10 +22,7 @@ hero:
       link: https://augusmeow.github.io/notes/
     - theme: alt
       text: 编程
-      link: https://augusmeow.github.io/code/
-    - theme: alt
-      text: 文科
-      link: https://augusmeow.github.io/arts/                     
+      link: https://augusmeow.github.io/code/                  
 # Could add features description here
 features:
   - title: 游戏
@@ -39,8 +36,5 @@ features:
     link: https://augusmeow.github.io/notes/
   - title: 编程
     details: 主要是`C++`和`DSA`也有一些八股文，这些八股文大多是`C++`，对于其他编程语言记录的较少，跟编程相关的笔记也收录在此。
-    link: https://augusmeow.github.io/code/
-  - title: 文科
-    details: 简单了解一下人文科学，比如艺术，经济学。亦，收录自己的语言学习。还有一些散碎的历史啊。收录一些奇奇怪怪的文章，也许不奇怪。
-    link: https://augusmeow.github.io/arts/   
+    link: https://augusmeow.github.io/code/   
 ---

@@ -22,10 +22,7 @@ hero:
       link: https://augusmeow.github.io/notes/
     - theme: alt
       text: CODE
-      link: https://augusmeow.github.io/code/
-    - theme: alt
-      text: ARTS
-      link: https://augusmeow.github.io/arts/                   
+      link: https://augusmeow.github.io/code/                 
 # Could add features description here
 features:
   - title: GAMING
@@ -40,7 +37,4 @@ features:
   - title: PROGRAMMING
     details: Programming mainly focuses on C++ and DSA, with some basic essays - mostly on C++. There are fewer notes on other programming languages, and those related to programming are also included here. 
     link: https://augusmeow.github.io/code/
-  - title: ARTS
-    details: In terms of humanities, there is a basic understanding of the humanities, such as art and economics. It also includes self-recorded language learning and some scattered history.The "Articles" section contains some strange and quirky articles, which may or may not be strange.
-    link: https://augusmeow.github.io/arts/  
 ---
