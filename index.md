@@ -8,7 +8,7 @@ hero:
   text: Augus 的全部网站
   tagline: 见证者，为见证而来 | 铭记者，因铭记而生
   image:
-    src: /img/home.jpg
+    src: /home.png
     alt: none
   actions:
     - theme: brand

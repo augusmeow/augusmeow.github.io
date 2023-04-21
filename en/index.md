@@ -8,7 +8,7 @@ hero:
   text: Augus's All Website
   tagline: Witnesses come to witness, and memorialists are born to remember. 
   image:
-    src: /img/home.jpg
+    src: /home.png
     alt: none
   actions:
     - theme: brand
